@@ -11,3 +11,5 @@ En este caso como no hay fricción al haber más gravedad el pensulo se va mover
 
 ## ¿ Como correr la animación?
 Para crear y correr el programa use la aplicación de escritorio Pycharm, en esta cree un proyecto donde instale los paquetes necesarios como: numpy, pygame y math. Luego simplemente se guarda y usando la pestalla superior donde dice "run" deberia poder ejecutarse.
+
+![PS_2_4_9 8](https://user-images.githubusercontent.com/61853949/132080885-0a28ce70-bd3a-4d40-b68d-5917befada38.PNG)
