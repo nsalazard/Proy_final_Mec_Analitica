@@ -1,7 +1,7 @@
 # Proyecto final de Mecanica Analítica
 Autor: Nicole Sofia Salazar Delgado
 
-##Pendulo esférico:
+## Pendulo esférico:
 Dado que fue uno de los problemas que resolvimos en uno de los talleres, me parecio una perspectiva interesante animarlo ya que por la pandemia no podemos ir al laboratorio a ver el comportamiento de los sistemas y tambien esta el hecho de que animado podemos hacer que la trayectoria que siga la partícula se vea más claramente e incluso podemos despeciar la fricción para que siga más de cerca las ecuaciones que resolvimos en el taller.
 
 Se usa también RK4 que consiste en un método iterativo bastante popular de la familia los Runge–Kutta, que permite la evolución del sistema y donde su error acumulado es de orden 4.
