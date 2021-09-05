@@ -2,11 +2,15 @@
 Autor: Nicole Sofia Salazar Delgado
 
 ## Pendulo esférico:
+
 Dado que fue uno de los problemas que resolvimos en uno de los talleres, me parecio una perspectiva interesante animarlo ya que por la pandemia no podemos ir al laboratorio a ver el comportamiento de los sistemas y tambien esta el hecho de que animado podemos hacer que la trayectoria que siga la partícula se vea más claramente e incluso podemos despeciar la fricción para que siga más de cerca las ecuaciones que resolvimos en el taller.
 
 Se usa también RK4 que consiste en un método iterativo bastante popular de la familia los Runge–Kutta, que permite la evolución del sistema y donde su error acumulado es de orden 4.
 
 Algo bueno de este programa es que podemos ir variando los valores de la masa, la longitud y la gravedad. Lo que nos permite explorar el sistemas y sus ecuaciones de movimiento.
+
+Aqui esta un video hecho con distintos valores para la masa, longitud y gravedad, podemos observar como estos influyen en la trayectoria del pendulo.
+https://youtu.be/iE5TLGWmL0Y
 
 ## ¿ Como correr la animación?
 Para crear y correr el programa use la aplicación de escritorio Pycharm, en esta cree un proyecto donde instale los paquetes necesarios como: numpy, pygame y math. Luego simplemente se guarda y usando la pestalla superior donde dice "run" deberia poder ejecutarse.
@@ -24,5 +28,7 @@ Y cuando disminuimos la gravedad a g=2.0, el péndulo se mueve muy lento
 ![PS_2_4_2 0](https://user-images.githubusercontent.com/61853949/132081103-bd3007f5-7e2c-49f4-a563-a5b9dd667c94.PNG)
 
 En este caso como no hay fricción al haber más gravedad el pensulo se va a mover más rapido y podemos imaginarnos que si la gravedad es muy baja, entonces la partícula interactua debilmente con el campo gravitatorio.
+
+
 
 
